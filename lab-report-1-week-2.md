@@ -14,7 +14,8 @@
 
 > Part 4 – Run Some Commands
 
-![Image](
+![Image](https://user-images.githubusercontent.com/103210019/162645050-5f33ac2c-d439-4ce5-896d-fa2080465dbc.png)
+
 
 > Part 5 – Moving Files over SSH with scp
 
