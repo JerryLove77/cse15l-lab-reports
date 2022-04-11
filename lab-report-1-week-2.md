@@ -16,7 +16,7 @@ type `ssh cs15lsp22zz@ieng6.ucsd.edu`. Replace `zz` by your course-specific acco
 
 `cd ~` :file system starts at home
 
-`ls -a` : brings up hidden files
+`ls -lat` : brings up a list of hidden files
 
 `pwd` : print working directory
 
@@ -36,7 +36,7 @@ type `ssh-keygen`
 
 type `scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys`. 
 
-then tpye your password! 
+then type your password! 
 
 ![Image](https://user-images.githubusercontent.com/103210019/162668573-9be320c4-caa4-470e-8fd2-2aa59dac1b54.png)
 
