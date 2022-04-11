@@ -24,7 +24,7 @@ tyep `ssh cs15lsp22zz@ieng6.ucsd.edu`. Replace `zz` by your course-specific acco
 
 > Moving Files over SSH with scp
 
-The command is called `scp`, and we will always run it from the client
+The command is called `scp`.
 
 ![Image](https://user-images.githubusercontent.com/103210019/162644264-2ae7d3ea-7e55-44e7-8cd0-ff41b9a57262.png)
 
@@ -34,7 +34,9 @@ type `ssh-keygen`
 
 ![Image](https://user-images.githubusercontent.com/103210019/162668497-ce9be951-c5da-472a-a605-bd5ea91d10d0.png)
 
-type `scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys`. then tpye your password! 
+type `scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys`. 
+
+then tpye your password! 
 
 ![Image](https://user-images.githubusercontent.com/103210019/162668573-9be320c4-caa4-470e-8fd2-2aa59dac1b54.png)
 
