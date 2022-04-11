@@ -8,7 +8,7 @@ Installing the best fitable version for you(Windows,Mac,Linux)
 
 > Remotely Connecting
 
-tyep `ssh cs15lsp22zz@ieng6.ucsd.edu`. Replace `zz` by your course-specific account.
+type `ssh cs15lsp22zz@ieng6.ucsd.edu`. Replace `zz` by your course-specific account.
 
 ![Image](https://user-images.githubusercontent.com/103210019/162644182-52539f25-f47f-4312-996b-c44c14199f88.png)
 
