@@ -2,7 +2,7 @@
 
 # Installing VScode
 
-Installing the best fitable version for you(Windows,Mac,Linux)
+Go to the [VS Code website](https://code.visualstudio.com/Download) And the select the option that is best for you! (Windows, Apple, or Linux)
 
 ![Image](https://user-images.githubusercontent.com/103210019/162644154-05a0d1a3-48aa-4280-b3b3-6aab167a5c89.png)
 
