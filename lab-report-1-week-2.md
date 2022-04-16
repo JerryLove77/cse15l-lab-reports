@@ -1,18 +1,18 @@
 **This is Jianrui Zhang 's lab report**
 
-> Installing VScode
+# Installing VScode
 
 Installing the best fitable version for you(Windows,Mac,Linux)
 
 ![Image](https://user-images.githubusercontent.com/103210019/162644154-05a0d1a3-48aa-4280-b3b3-6aab167a5c89.png)
 
-> Remotely Connecting
+# Remotely Connecting
 
 type `ssh cs15lsp22zz@ieng6.ucsd.edu`. Replace `zz` by your course-specific account.
 
 ![Image](https://user-images.githubusercontent.com/103210019/162644182-52539f25-f47f-4312-996b-c44c14199f88.png)
 
-> Trying Some Commands
+# Trying Some Commands
 
 `cd ~` :file system starts at home
 
@@ -22,13 +22,13 @@ type `ssh cs15lsp22zz@ieng6.ucsd.edu`. Replace `zz` by your course-specific acco
 
 ![Image](https://user-images.githubusercontent.com/103210019/162669659-3f7e90a7-3cac-4bd8-bcc6-534e0816a30c.png)
 
-> Moving Files over SSH with scp
+# Moving Files over SSH with scp
 
 The command is called `scp`.
 
 ![Image](https://user-images.githubusercontent.com/103210019/162644264-2ae7d3ea-7e55-44e7-8cd0-ff41b9a57262.png)
 
-> Setting an SSH Key
+# Setting an SSH Key
 
 type `ssh-keygen` 
 
@@ -40,7 +40,7 @@ then type your password!
 
 ![Image](https://user-images.githubusercontent.com/103210019/162668573-9be320c4-caa4-470e-8fd2-2aa59dac1b54.png)
 
-> Optimizing Remote Running
+# Optimizing Remote Running
 
 You can use semicolons to run multiple commands on the same line in most terminals.
 
