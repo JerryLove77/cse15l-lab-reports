@@ -42,6 +42,8 @@ then type your password!
 
 # Optimizing Remote Running
 
-You can use semicolons to run multiple commands on the same line in most terminals.
+You can use semicolons to run multiple commands on the same line in most terminals. Thus, less keystrokes are needed.
+
+The Up click is also useful for optimization when needing many repeative commands.
 
 ![Image](https://user-images.githubusercontent.com/103210019/162670593-c001106c-b1ab-4003-8d9d-d7f184a29040.png)
