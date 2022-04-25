@@ -1,4 +1,4 @@
-**This is Jianrui Zhang's Lab Report 2**
+**This is Jianrui Zhang's Lab Report 2: Debugging and Testing**
 
 # Show the code
 
