@@ -9,6 +9,8 @@ Here are three changes:
 > link to the test file: [test-file 1](https://github.com/JerryLove77/lab3/blob/main/test-file1.md)
 
 > Symptom of the input
+![image](https://user-images.githubusercontent.com/103210019/165457645-7e95f600-26b4-4982-b206-bf2c1f69c708.png)
+
 
 > The symptom of this error is caused by the markdown image and link formats being similar. By producing an image in the test file, the input causes this symptom.
 
