@@ -1,12 +1,6 @@
 **This is Jianrui Zhang's Lab Report 2: Debugging and Testing**
 
-# Show the diff code changed
+Here are three changes:
 
-![image](https://user-images.githubusercontent.com/103210019/165022471-e4f12a4a-4be4-4ca8-8c1e-834b2c4c7fcc.png)
-
-
-# Failure test case
-
-# Symptom of that failure testing
- 
-# The bug, the symptom, and the failure-inducing input.
+# 1.Avoid images
+![image](https://user-images.githubusercontent.com/103210019/165451511-24dd6332-6444-4c67-b17c-19d3eb3cae71.png)
