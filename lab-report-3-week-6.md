@@ -18,6 +18,6 @@
 
 - ## Here is the public and private key stored in `.ssh` folder ##
 
-![image]()
+![image](https://user-images.githubusercontent.com/103210019/167958559-3a6910f8-532f-4593-a207-ad41f834d6e8.png)
 
 # Copy whole directories
