@@ -23,13 +23,21 @@
 
 - ## Now usekey when commit chages to Github from ieng6 account
 ![image](https://user-images.githubusercontent.com/103210019/167962144-04be09ba-8535-47d1-ba81-d855ed0909df.png)
+
 ![image](https://user-images.githubusercontent.com/103210019/167962054-654b90b6-c9da-4060-b6ec-008861fe2080.png)
 
 
 
 # Copy whole directories
+
+- ## screenshot of the copying process ##
+
 ![image](https://user-images.githubusercontent.com/103210019/167963895-7e5ccee0-c71d-45e3-ad60-58a6acff7539.png)
 
 ![image](https://user-images.githubusercontent.com/103210019/167963947-2a40e84a-5166-440f-a1c3-4468b72dca6f.png)
 
+- ## run SkillDemoTest in the ieng6 account ##
+
 ![image](https://user-images.githubusercontent.com/103210019/167963842-cfb0b961-51a6-49af-a362-851dd0a6b574.png)
+
+- ## Finally one line command that runs all
