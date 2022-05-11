@@ -22,8 +22,9 @@
 ![image](https://user-images.githubusercontent.com/103210019/167962259-5cfa7d82-7bc9-4bb7-b313-6d8a1fe72661.png)
 
 - ## Now usekey when commit chages to Github from ieng6 account
-![image](https://user-images.githubusercontent.com/103210019/167962054-654b90b6-c9da-4060-b6ec-008861fe2080.png)
 ![image](https://user-images.githubusercontent.com/103210019/167962144-04be09ba-8535-47d1-ba81-d855ed0909df.png)
+![image](https://user-images.githubusercontent.com/103210019/167962054-654b90b6-c9da-4060-b6ec-008861fe2080.png)
+
 
 
 # Copy whole directories
