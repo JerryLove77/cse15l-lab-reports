@@ -28,6 +28,8 @@
 
 
 # Copy whole directories
-![image](https://user-images.githubusercontent.com/103210019/167963055-2105aaaa-ae8e-4329-bc98-ceb550acf47f.png)
+![image](https://user-images.githubusercontent.com/103210019/167963895-7e5ccee0-c71d-45e3-ad60-58a6acff7539.png)
 
-![image](https://user-images.githubusercontent.com/103210019/167962800-7eb80075-8b6b-4935-b438-58234d11bf55.png)
+![image](https://user-images.githubusercontent.com/103210019/167963947-2a40e84a-5166-440f-a1c3-4468b72dca6f.png)
+
+![image](https://user-images.githubusercontent.com/103210019/167963842-cfb0b961-51a6-49af-a362-851dd0a6b574.png)
