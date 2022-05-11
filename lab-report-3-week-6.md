@@ -6,10 +6,12 @@
 
 ![image](https://user-images.githubusercontent.com/103210019/167568446-65e1ad43-cf6b-46ea-bf2d-589fc8b7bc66.png)
 
-- Now use ` ieng6 Zhang` to login
+- ## Now use ` ieng6 Zhang` to login ##
 
 ![image](https://user-images.githubusercontent.com/103210019/167934297-7068d41a-6130-46f2-b051-d96978b5d0f1.png)
 
 # Setup Github Access from ieng6
 
+- ## Here is the public key shown in Github ##
+![image]()
 # Copy whole directories
