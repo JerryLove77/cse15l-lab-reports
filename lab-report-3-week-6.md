@@ -19,7 +19,8 @@
 
 - ## Here is the public and private key stored in `.ssh` folder ##
 
-![image](https://user-images.githubusercontent.com/103210019/167958647-ec97f9ee-a3cf-45cc-b993-7e9350dbec8b.png)
+![image](https://user-images.githubusercontent.com/103210019/167962259-5cfa7d82-7bc9-4bb7-b313-6d8a1fe72661.png)
+
 
 ![image](https://user-images.githubusercontent.com/103210019/167962054-654b90b6-c9da-4060-b6ec-008861fe2080.png)
 ![image](https://user-images.githubusercontent.com/103210019/167962144-04be09ba-8535-47d1-ba81-d855ed0909df.png)
