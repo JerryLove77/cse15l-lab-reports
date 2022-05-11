@@ -13,5 +13,7 @@
 # Setup Github Access from ieng6
 
 - ## Here is the public key shown in Github ##
-![image]()
+
+![image](https://user-images.githubusercontent.com/103210019/167957902-b19f7e2f-df06-488e-8921-3bbbac3298fb.png)
+
 # Copy whole directories
