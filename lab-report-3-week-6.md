@@ -10,6 +10,7 @@
 
 ![image](https://user-images.githubusercontent.com/103210019/167934297-7068d41a-6130-46f2-b051-d96978b5d0f1.png)
 
+
 # Setup Github Access from ieng6
 
 - ## Here is the public key shown in Github ##
@@ -19,5 +20,6 @@
 - ## Here is the public and private key stored in `.ssh` folder ##
 
 ![image]()
+
 
 # Copy whole directories
