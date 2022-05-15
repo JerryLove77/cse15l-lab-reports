@@ -46,5 +46,6 @@
 
 - ## Finally one line command that runs all
  
-![image](https://user-images.githubusercontent.com/103210019/167964365-1bef60ef-6258-4a2d-b235-40f386660805.png)
+![image](image2.png)
+![image](image3.ong)
 
