@@ -47,5 +47,5 @@
 - ## Finally one line command that runs all
  
 ![image](image2.png)
-![image](image3.ong)
+![image](image3.png)
 
