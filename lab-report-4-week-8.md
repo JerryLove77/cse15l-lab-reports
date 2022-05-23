@@ -11,3 +11,18 @@ Tests in `MarkdownParseTest.java`:
 - Variables used:
 
 - Test for my `MarkdownParse.java`:
+
+- Test for reviewed `MarkdownParse.java`
+
+
+Results for my implementation:
+
+Results for reviewed implementation:
+
+## Solution to the tests
+
+Fixes for snippet 1:
+
+Fixes for snippet 2:
+
+Fixes for snippet 3:
