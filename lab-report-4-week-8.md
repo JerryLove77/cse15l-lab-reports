@@ -9,6 +9,7 @@
 Tests in `MarkdownParseTest.java`:
 
 - Variables used:
+![variable](C:\Users\Zhang\Documents\GitHub\cse15l-lab-reports\labreport4\variableused.png)
 
 - Test for my `MarkdownParse.java`:
 
