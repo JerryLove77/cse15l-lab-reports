@@ -6,7 +6,7 @@
 
 - [Reviewed Repo](https://github.com/yuxinguo13/markdown-parser)
 
-## Tests in `MarkdownParseTest.java`:
+- Tests in `MarkdownParseTest.java`:
 
 - Variables used:
 ![variable](variableused.png)
