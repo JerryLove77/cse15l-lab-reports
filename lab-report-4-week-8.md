@@ -40,6 +40,19 @@ Results for reviewed implementation:
 
 Fixes for snippet 1:
 
+## There should be a small fix for the inline code with backticks senario
+
+## The demo of the fix 
+![fix](fix1.png)
+
 Fixes for snippet 2:
 
+## There would be a major fix on the original code
+
+## detect open and close parenthesis and brackets need to be revised
+
 Fixes for snippet 3:
+
+## There should be a small fix on the original code for cases in snippet 3.
+
+## fix the issue about the blank spaces and newlines
