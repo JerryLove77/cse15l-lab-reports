@@ -44,12 +44,14 @@ Tests in `MarkdownParseTest.java`:
 
 - There should be a small fix for the inline code with backticks senario
 
+- The major factor to fix is make sure there isn't an odd number of backticks within the brackets, which will omit the link.
+
 - The demo of the fix 
 ![fix](fix1.png)
 
 ### Fixes for snippet 2:
 
-- There would be a major fix on the original code
+- There would be a major fix on the original code. Because we would have to completely overhaul the preexisting mechanism of how to detect links in our `MarkdownParse.java`.
 
 - detect open and close parenthesis and brackets need to be revised
 
