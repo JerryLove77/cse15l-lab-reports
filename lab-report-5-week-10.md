@@ -11,3 +11,9 @@ Here is the links to the test files:
 [Test 342](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/342.md)
 
 [Test]()
+
+## Test 342
+
+- For Test 342, my implements gave the correct output, which should be zero.
+
+![Test 342](Test342-1.jpg)
