@@ -16,4 +16,8 @@ Here is the links to the test files:
 
 - For Test 342, my implements gave the correct output, which should be zero.
 
+![Test 342](Test342-2.jpg)
+
+![Test 342](Test342-3.jpg)
+
 ![Test 342](Test342-1.jpg)
