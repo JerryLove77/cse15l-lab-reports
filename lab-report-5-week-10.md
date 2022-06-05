@@ -21,3 +21,11 @@ Here is the links to the test files:
 ![Test 342](Test342-3.jpg)
 
 ![Test 342](Test342-1.jpg)
+
+- On left side, my implement returns null; however, given implement returns a link
+
+- The main fix for test 342 is regarding backticks in markdown. Backtick detection is required when running through the "link" because of the particular functions of backticks.
+
+- As this is a small fix, backtick detection in the getLinks method or a new method is required.
+
+![Test 342](Test342-4.jpg)
